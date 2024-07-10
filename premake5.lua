@@ -17,7 +17,8 @@ project "JoltPhysics"
 
 	includedirs
 	{
-		"Jolt"
+		"Jolt",
+		""
 	}
 
 	filter "system:windows"
